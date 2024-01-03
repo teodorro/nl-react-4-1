@@ -6,7 +6,7 @@ import "./css/main.css";
 function App() {
   return (
     <>
-        <Converter />
+      <Converter />
     </>
   );
 }
